@@ -55,7 +55,7 @@ We’re building **a robust, community-driven FOC motor controller** that:
 ### **2. Flash the Firmware**
 
 ```bash
-git clone git@github.com:DevHeadsCommunity/Mordor.git
+git clone git@github.com:EdgeComputingWorkbench/Mordor.git
 cd Mordor
 west build -b mimxrt1060_evk
 west flash
