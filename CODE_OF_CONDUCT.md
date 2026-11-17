@@ -83,5 +83,5 @@ This Code of Conduct is adapted from the Contributor Covenant, version 1.4, avai
 [code-of-conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
 ## Note
-To be clear, this code of conduct applies only to interaction with the https://github.com/DevHeadsCommunity/ organization and the 
+To be clear, this code of conduct applies only to interaction with the https://github.com/EdgeComputingWorkbench/ organization and the
 repositories it contains.
